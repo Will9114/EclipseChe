@@ -13,5 +13,4 @@ if __name__ == '__main__':
 #Comentario 1
 #Comentario 2
 #COMENTARIO DE CONEXION BRAYAN
-#ola todos
 #Comentario 3 Will
